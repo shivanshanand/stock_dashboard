@@ -104,3 +104,7 @@ Production checklist
 ---
 
 For implementation details see `backend/app`, `frontend/src`, and the services in `backend/app/services`.
+
+---
+
+[View dashboard](https://stock-dashboard-one-eta.vercel.app/)

@@ -1,0 +1,20 @@
+DEFAULT_SYMBOLS = [
+    "RELIANCE",
+    "TCS",
+    "INFY",
+    "HDFCBANK",
+    "ICICIBANK",
+    "HINDUNILVR",
+    "ITC",
+    "LT",
+    "SBIN",
+    "AXISBANK",
+    "BAJFINANCE",
+    "BHARTIARTL",
+    "ASIANPAINT",
+    "MARUTI",
+    "KOTAKBANK",
+    "WIPRO",
+    "HCLTECH",
+    "ULTRACEMCO"
+]
